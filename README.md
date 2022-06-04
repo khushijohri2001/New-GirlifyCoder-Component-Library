@@ -1,7 +1,7 @@
 # GirlifyCoder-Component-Library
 A Component Library for all the components to be used in further projects. It include components like Buttons, Images, List, Snackbar, Alert and  many more.
 
-Live Link: [GirlifyCoder-Component-Library](https://girlifycoder-component-library.netlify.app/)
+Live Link: [GirlifyCoder-Component-Library](https://github.com/khushijohri2001/New-GirlifyCoder-Component-Library.git)
 
 ## Features
 - Beautiful UI which is easy to use and play.
