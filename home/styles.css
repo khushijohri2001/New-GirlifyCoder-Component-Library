@@ -48,10 +48,8 @@ header {
   width: 7rem;
   height: auto;
 }
-.header-title {
-  text-align: center;
+.flex-grow {
   flex-grow: 1;
-  color: var(--ternary-color);
 }
 
 .header-icons img {
